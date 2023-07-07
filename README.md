@@ -1,1 +1,1 @@
-# bayes
+# Naive Buyes for two classes
